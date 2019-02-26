@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">CalculatorExample</string>
+	<string name="field1">" Поле 1"</string>
+	<string name="field2">Поле 2</string>
+	<string name="operation">Операция</string>
+	<string name="floatValues">Дробные числа</string>
+	<string name="signedValues">Числа со знаком</string>
+	<string name="resultField">Результат</string>
+	<string name="calculateButton">Кнопка вычисления</string>
+	<string name="field1Hint">Число 1</string>
+	<string name="field2Hint">Число 2</string>
+	<string name="plus">Плюс</string>
+	<string name="minus">Минус</string>
+	<string name="divide">Делить</string>
+	<string name="multiple">Умножить</string>
+	<string name="floatValuesHint">Использовать дробные числа</string>
+	<string name="signedValuesHint">Использовать знаковые числа</string>
+	<string name="resultFieldHint">Результат</string>
+	<string name="calculateButtonHint">Вычислить</string>
+	<string name="notFoundOperationMsg">Выберите выполняемую операцию</string>
+</resources>

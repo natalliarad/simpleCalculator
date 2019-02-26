@@ -1,0 +1,23 @@
+<resources>
+	<string name="app_name">CalculatorExample</string>
+	<string name="field1">Field 1</string>
+	<string name="field2">Field 2</string>
+	<string name="operation">Operation</string>
+	<string name="floatValues">Float values</string>
+	<string name="signedValues">Signed values</string>
+	<string name="resultField">Result field</string>
+	<string name="calculateButton">Calculate button</string>
+
+	<!--Hints-->
+	<string name="field1Hint">Number 1</string>
+	<string name="field2Hint">Number 2</string>
+	<string name="plus">Plus</string>
+	<string name="minus">Minus</string>
+	<string name="divide">Divide</string>
+	<string name="multiple">Multiple</string>
+	<string name="floatValuesHint">Use float numbers</string>
+	<string name="signedValuesHint">Use signed numbers</string>
+	<string name="resultFieldHint">Result</string>
+	<string name="calculateButtonHint">Calculate</string>
+	<string name="notFoundOperationMsg">Please, choose an operation</string>
+</resources>
